@@ -1,0 +1,93 @@
+{
+  "cards": [
+    {
+      "title": "Become a member",
+      "text": "With more ways to unlock exciting perks, this is your all access pass to exclusive rewards.",
+      "type": "button"
+    },
+    {
+      "title": "Livehealthy-store Points",
+      "text": "Earn more Livehealthy-store Points for different actions, and turn those Livehealthy-store Points into awesome rewards!",
+      "type": "links",
+      "links": [
+        {
+          "icon": "/earn-more-points.svg",
+          "title": "Ways to earn",
+          "route": "ways-to-earn"
+        },
+        {
+          "icon": "/spend-your-points.svg",
+          "title": "Ways to redeem",
+          "route": "ways-to-redeem"
+        }
+      ]
+    },
+    {
+      "title": "Referrals",
+      "text": "Give your friends a reward and claim your own when they make a purchase.",
+      "type": "referrals",
+      "links": [
+        {
+          "icon": "/fixed-amount.svg",
+          "title": "They get",
+          "text": "$30 off coupon"
+        },
+        {
+          "icon": "/fixed-amount.svg",
+          "title": "You get",
+          "text": "$30 off coupon"
+        }
+      ]
+    }
+  ],
+  "earn": {
+    "title": "Ways to earn",
+    "items": [
+      {
+        "icon": "/signup.svg",
+        "text1": "Signup",
+        "text2": "500 Livehealthy-store Points"
+      },
+      {
+        "icon": "/order-online.svg",
+        "text1": "Place an order",
+        "text2": "1 Livehealthy-store Point for every $1 spent"
+      },
+      {
+        "icon": "/facebook-share.svg",
+        "text1": "Share on Facebook",
+        "text2": "100 Livehealthy-store Points"
+      },
+      {
+        "icon": "/birthday.svg",
+        "text1": "Celebrate a birthday",
+        "text2": "1000 Livehealthy-store Points"
+      }
+    ]
+  },
+  "redeem": {
+    "title": "Ways to redeem",
+    "items": [
+      {
+        "icon": "/fixed-amount.svg",
+        "text1": "$60 off coupon",
+        "text2": "1000 Livehealthy-store Points"
+      },
+      {
+        "icon": "/fixed-amount.svg",
+        "text1": "$12 off coupon",
+        "text2": "2000 Livehealthy-store Points"
+      },
+      {
+        "icon": "/fixed-amount.svg",
+        "text1": "$300 off coupon",
+        "text2": "5000 Livehealthy-store Points"
+      },
+      {
+        "icon": "/fixed-amount.svg",
+        "text1": "Order discount",
+        "text2": "500 Livehealthy-store Points = $30"
+      }
+    ]
+  }
+}

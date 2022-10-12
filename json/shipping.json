@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Same as shipping address",
+    "value": "same-shipping-address"
+  },
+  {
+    "title": "Use a different billing address",
+    "value": "use-a-different-billing-address"
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Medical Gloves",
+    "images": [
+      {
+        "file": {
+          "id": "61840dcf4117fc50ba1e0b91",
+          "dateUploaded": "2021-11-04T16:43:59.714Z",
+          "length": 63596,
+          "md5": "fa57e01cfe0928240f225c5144f476e2",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840dcf4117fc50ba1e0b91/fa57e01cfe0928240f225c5144f476e2",
+          "width": 800,
+          "height": 800
+        },
+        "id": "61840dd67d6c85347699a7bd"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "gloves",
+    "topId": null,
+    "sort": 0,
+    "id": "616a8b5bd8a27d138bbfa031",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Vinyl Gloves",
+    "images": [
+      {
+        "file": {
+          "id": "61840df3760b3f5071f3a756",
+          "dateUploaded": "2021-11-04T16:44:35.887Z",
+          "length": 102544,
+          "md5": "4aae1ef9d8fd9a2ed4b072663176fb9a",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840df3760b3f5071f3a756/4aae1ef9d8fd9a2ed4b072663176fb9a",
+          "width": 800,
+          "height": 800
+        },
+        "id": "61840df97468e434177d0d9a"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": "616a8b5bd8a27d138bbfa031",
+    "slug": "gloves-vinyl-gloves",
+    "topId": "616a8b5bd8a27d138bbfa031",
+    "sort": 0,
+    "id": "616a8b75839e311381526e87",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Latex Gloves",
+    "images": [
+      {
+        "file": {
+          "id": "61840e194117fc50ba1e0b97",
+          "dateUploaded": "2021-11-04T16:45:13.037Z",
+          "length": 69552,
+          "md5": "d1678e5e901d46a8c5611372c576260e",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840e194117fc50ba1e0b97/d1678e5e901d46a8c5611372c576260e",
+          "width": 522,
+          "height": 439
+        },
+        "id": "61840e1c760b3f5071f3a76f"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": "616a8b5bd8a27d138bbfa031",
+    "slug": "gloves-latex-gloves",
+    "topId": "616a8b5bd8a27d138bbfa031",
+    "sort": 1,
+    "id": "616a8b88d8a27d138bbfc90f",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Nitrile Gloves",
+    "images": [
+      {
+        "file": {
+          "id": "61840e65d20b5a34215c9f56",
+          "dateUploaded": "2021-11-04T16:46:29.367Z",
+          "length": 31716,
+          "md5": "e115e70c06fa55a29e0dcbe0ae8b5894",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840e65d20b5a34215c9f56/e115e70c06fa55a29e0dcbe0ae8b5894",
+          "width": 500,
+          "height": 339
+        },
+        "id": "61840e6f1dcfff50f63a43cf"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "nitrile-gloves",
+    "topId": null,
+    "sort": 1,
+    "id": "616a8bb8d8a27d138bbfca7c",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Sterile Gloves",
+    "images": [
+      {
+        "file": {
+          "id": "61840e3d4117fc50ba1e0bb3",
+          "dateUploaded": "2021-11-04T16:45:49.697Z",
+          "length": 36000,
+          "md5": "4e533e2ef89a20d9b23f5f50473c84a9",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840e3d4117fc50ba1e0bb3/4e533e2ef89a20d9b23f5f50473c84a9",
+          "width": 500,
+          "height": 500
+        },
+        "id": "61840e414117fc50ba1e0bca"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": "616a8b5bd8a27d138bbfa031",
+    "slug": "gloves-sterile-gloves",
+    "topId": "616a8b5bd8a27d138bbfa031",
+    "sort": 2,
+    "id": "616a8b9c6842e014315e6be8",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Masks & Respirators",
+    "images": [
+      {
+        "file": {
+          "id": "61840e96a06730509a4cbb6d",
+          "dateUploaded": "2021-11-04T16:47:19.007Z",
+          "length": 149704,
+          "md5": "e3d967e21077e4bf230b9a4f09d0095b",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840e96a06730509a4cbb6d/e3d967e21077e4bf230b9a4f09d0095b",
+          "width": 1024,
+          "height": 1024
+        },
+        "id": "61840e9ba06730509a4cbb79"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "masks-respirators",
+    "topId": null,
+    "sort": 2,
+    "id": "616a8bc3a437e5141943036f",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "COVID-19 Test Kits",
+    "images": [
+      {
+        "file": {
+          "id": "61840ecbd20b5a34215ca904",
+          "dateUploaded": "2021-11-04T16:48:11.406Z",
+          "length": 289848,
+          "md5": "c50661dd1ec68b0eadaf2160cf96bcb7",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840ecbd20b5a34215ca904/c50661dd1ec68b0eadaf2160cf96bcb7",
+          "width": 1000,
+          "height": 1000
+        },
+        "id": "61840ee87468e434177db5c4"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "covid-19-test-kits",
+    "topId": null,
+    "sort": 3,
+    "id": "616a8bd4d8a27d138bbfcb83",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Laboratory Supplies",
+    "images": [
+      {
+        "file": {
+          "id": "61840f14d20b5a34215ca93b",
+          "dateUploaded": "2021-11-04T16:49:24.186Z",
+          "length": 31472,
+          "md5": "f79afed54b7d2c497afa2d0f1ab94480",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840f14d20b5a34215ca93b/f79afed54b7d2c497afa2d0f1ab94480",
+          "width": 500,
+          "height": 332
+        },
+        "id": "61840f18a06730509a4d2de4"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "laboratory-supplies",
+    "topId": null,
+    "sort": 4,
+    "id": "616a8bdba437e51419430428",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Syringes & Needles",
+    "images": [
+      {
+        "file": {
+          "id": "61840f5f1dcfff50f63a4a01",
+          "dateUploaded": "2021-11-04T16:50:39.726Z",
+          "length": 117536,
+          "md5": "6f8d1300830be251d883415baef44ce7",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/61840f5f1dcfff50f63a4a01/6f8d1300830be251d883415baef44ce7",
+          "width": 1155,
+          "height": 648
+        },
+        "id": "61840fb5472cf134a1bcdc1f"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "syringes-needles",
+    "topId": null,
+    "sort": 5,
+    "id": "616a8be4a437e51419430440",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Gynaecological Gloves",
+    "images": [
+      {
+        "file": {
+          "id": "619433035b61d16afc5ea04e",
+          "dateUploaded": "2021-11-16T22:38:59.768Z",
+          "length": 166348,
+          "md5": "9d293cf559256026548dd3b19970c454",
+          "filename": null,
+          "contentType": "image/png",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/619433035b61d16afc5ea04e/9d293cf559256026548dd3b19970c454",
+          "width": 720,
+          "height": 480
+        },
+        "id": "6194330d16c5720e55c52448"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "gynaecological-gloves",
+    "topId": null,
+    "sort": 6,
+    "id": "616a8beda437e51419430458",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Industrial Gloves",
+    "images": [
+      {
+        "file": {
+          "id": "618410089e45df349ab40e52",
+          "dateUploaded": "2021-11-04T16:53:28.741Z",
+          "length": 35852,
+          "md5": "c399963777ffaf580b29252ebd66e7c1",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/618410089e45df349ab40e52/c399963777ffaf580b29252ebd66e7c1",
+          "width": 500,
+          "height": 500
+        },
+        "id": "6184100d25116033d8817a74"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "industrial-gloves",
+    "topId": null,
+    "sort": 7,
+    "id": "616a8bf8d8a27d138bbfccc4",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Oxygen Concentrators",
+    "images": [
+      {
+        "file": {
+          "id": "618410599e45df349ab40fcf",
+          "dateUploaded": "2021-11-04T16:54:49.192Z",
+          "length": 19152,
+          "md5": "7338c7c5b07d4703d472d4c937ddb3ea",
+          "filename": null,
+          "contentType": "image/jpeg",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/618410599e45df349ab40fcf/7338c7c5b07d4703d472d4c937ddb3ea",
+          "width": 465,
+          "height": 500
+        },
+        "id": "6184105ca4133033d1a98a23"
+      }
+    ],
+    "description": null,
+    "metaDescription": null,
+    "parentId": null,
+    "slug": "oxygen-concentrators",
+    "topId": null,
+    "sort": 8,
+    "id": "616a8c02d8a27d138bbfcce5",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Beauty",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "beauty",
+    "topId": null,
+    "images": [
+      {
+        "file": {
+          "id": "628defbe6997bf00131138a1",
+          "dateUploaded": "2022-05-25T08:58:38.217Z",
+          "length": 173812,
+          "md5": "22f1cb1ec523dff1eab506712f25fd79",
+          "filename": null,
+          "contentType": "image/png",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628defbe6997bf00131138a1/22f1cb1ec523dff1eab506712f25fd79",
+          "width": 500,
+          "height": 281
+        },
+        "id": "628df17a6997bf00131138b3"
+      }
+    ],
+    "parentId": null,
+    "sort": 9,
+    "id": "628dece47db8a0740d864647",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Personal Care",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "personal-care",
+    "topId": null,
+    "parentId": null,
+    "sort": 10,
+    "images": [
+      {
+        "file": {
+          "id": "628e2bda6997bf0013116a26",
+          "dateUploaded": "2022-05-25T13:15:06.592Z",
+          "length": 11904,
+          "md5": "fca7135d8e27b8f47486eecc8b4b5ca5",
+          "filename": null,
+          "contentType": "image/webp",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628e2bda6997bf0013116a26/fca7135d8e27b8f47486eecc8b4b5ca5",
+          "width": 500,
+          "height": 333
+        },
+        "id": "628e2c73690c6c0013f35e67"
+      }
+    ],
+    "id": "628decb77db8a0740d864597",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Health",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "health",
+    "topId": null,
+    "images": [
+      {
+        "file": {
+          "id": "628df42d6997bf00131138c7",
+          "dateUploaded": "2022-05-25T09:17:33.343Z",
+          "length": 14460,
+          "md5": "1acfed297e935344385d33bfbd9c93bf",
+          "filename": null,
+          "contentType": "image/webp",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628df42d6997bf00131138c7/1acfed297e935344385d33bfbd9c93bf",
+          "width": 500,
+          "height": 308
+        },
+        "id": "628df5e4690c6c0013f33519"
+      }
+    ],
+    "parentId": null,
+    "sort": 11,
+    "id": "628ded107db8a0740d8647ae",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Confectionery",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "confectionery",
+    "topId": null,
+    "parentId": null,
+    "sort": 12,
+    "images": [
+      {
+        "file": {
+          "id": "628e2ebda8ffc000125555ee",
+          "dateUploaded": "2022-05-25T13:27:25.215Z",
+          "length": 25284,
+          "md5": "8649f756e6ef86e0864ec8722d6b2ba9",
+          "filename": null,
+          "contentType": "image/webp",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628e2ebda8ffc000125555ee/8649f756e6ef86e0864ec8722d6b2ba9",
+          "width": 527,
+          "height": 303
+        },
+        "id": "628e2ec76997bf0013116a5d"
+      }
+    ],
+    "id": "628dedd77db8a0740d865594",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Medicines",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "medicines",
+    "topId": null,
+    "images": [
+      {
+        "file": {
+          "id": "628df65e6997bf00131138e4",
+          "dateUploaded": "2022-05-25T09:26:54.782Z",
+          "length": 14852,
+          "md5": "3e8398a565b875ade36fdba9532e49c7",
+          "filename": null,
+          "contentType": "image/webp",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628df65e6997bf00131138e4/3e8398a565b875ade36fdba9532e49c7",
+          "width": 551,
+          "height": 395
+        },
+        "id": "628df7856997bf001311390a"
+      }
+    ],
+    "parentId": null,
+    "sort": 13,
+    "id": "628ded3d7db8a0740d8649cd",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Hair Colours",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "hair-colours",
+    "topId": null,
+    "parentId": null,
+    "sort": 14,
+    "images": [
+      {
+        "file": {
+          "id": "628e2f17a8ffc000125555f1",
+          "dateUploaded": "2022-05-25T13:28:55.236Z",
+          "length": 16824,
+          "md5": "927e87d03818cbb60a74712c17c642be",
+          "filename": null,
+          "contentType": "image/webp",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628e2f17a8ffc000125555f1/927e87d03818cbb60a74712c17c642be",
+          "width": 540,
+          "height": 540
+        },
+        "id": "628e2f2fa8ffc000125555f3"
+      }
+    ],
+    "id": "628ded927db8a0740d865022",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Veterinary and Pet Care",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "veterinary-and-pet-care",
+    "topId": null,
+    "parentId": null,
+    "sort": 15,
+    "images": [
+      {
+        "file": {
+          "id": "628e2f4fa8ffc000125555f6",
+          "dateUploaded": "2022-05-25T13:29:51.664Z",
+          "length": 19088,
+          "md5": "1d87b21451a96ef74eb914e18e6c9ce1",
+          "filename": null,
+          "contentType": "image/webp",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628e2f4fa8ffc000125555f6/1d87b21451a96ef74eb914e18e6c9ce1",
+          "width": 500,
+          "height": 313
+        },
+        "id": "628e2f5e6997bf0013116a6d"
+      }
+    ],
+    "id": "628dedbf7db8a0740d8653b8",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  },
+  {
+    "name": "Medical Aids",
+    "description": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "metaDescription": "No minimum orders and free shipping to Hong Kong. Quality imported products from Australia. Choose from over 10,000 genuine health, beauty and baby care products. Get vitamins, health and food supplements, cosmetics, quit smoking aids, hair colours, baby food and much more. Owned & operated by HK'ers.",
+    "slug": "medical-aids",
+    "topId": null,
+    "parentId": null,
+    "sort": 16,
+    "images": [
+      {
+        "file": {
+          "id": "628e2f77a8ffc000125555fb",
+          "dateUploaded": "2022-05-25T13:30:31.773Z",
+          "length": 8280,
+          "md5": "6d59383a440d492ca3eaa491a624e224",
+          "filename": null,
+          "contentType": "image/webp",
+          "metadata": null,
+          "url": "https://cdn.schema.io/sailfish-e-commerce-limited/628e2f77a8ffc000125555fb/6d59383a440d492ca3eaa491a624e224",
+          "width": 500,
+          "height": 281
+        },
+        "id": "628e2f90a8ffc000125555fe"
+      }
+    ],
+    "id": "628ded6a7db8a0740d864cde",
+    "content": {
+      "showHeroImage": false,
+      "textColor": "dark",
+      "darkenHeroImage": 20,
+      "productCols": 4,
+      "productRows": 6
+    }
+  }
+]

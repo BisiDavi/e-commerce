@@ -1,0 +1,20 @@
+{
+  "primaryMenu": [
+    { "slug": "/about-us", "name": "About Us" },
+    { "slug": "/blog", "name": "Blog" },
+    { "slug": "/customer-care/shipping-and-delivery", "name": "Shipping Info" },
+    { "slug": "/contact-us", "name": "Contact Us" }
+  ],
+  "secondaryMenu": [
+    {
+      "slug": "/collection/vitamins-supplements",
+      "name": "Vitamins & Supplements"
+    },
+    { "slug": "/collection/medicines", "name": "Medicines" },
+    { "slug": "/collection/health-personal", "name": "Health & Personal" },
+    { "slug": "/collection/skin-care", "name": "Skin Care" },
+    { "slug": "/collection/hair-care", "name": "Hair Care" },
+    { "slug": "/collection/baby-care", "name": "Baby Care" },
+    { "slug": "/collection/pet-care", "name": "Pet Care" }
+  ]
+}

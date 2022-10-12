@@ -1,0 +1,21 @@
+[
+  {
+    "icon": "location",
+    "title": "Main store address",
+    "anchor": "#map"
+  },
+  {
+    "icon": "time",
+    "title": "Working hours"
+  },
+  {
+    "icon": "phone",
+    "title": "Phone numbers",
+    "type": "phone"
+  },
+  {
+    "icon": "mail",
+    "title": "Email addresses",
+    "type": "email"
+  }
+]

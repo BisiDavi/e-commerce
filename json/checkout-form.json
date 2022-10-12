@@ -1,0 +1,131 @@
+{
+  "personalDetails": {
+    "content": [
+      [
+        {
+          "name": "country",
+          "type": "selectCountry",
+          "placeholder": "Select Country",
+          "id": "checkout-country"
+        }
+      ],
+      [
+        {
+          "name": "firstName",
+          "id": "checkout-firstName",
+          "placeholder": "First name *",
+          "type": "input",
+          "inputType": "text"
+        },
+        {
+          "name": "lastName",
+          "id": "checkout-lastName",
+          "placeholder": "Last name *",
+          "type": "input",
+          "inputType": "text"
+        }
+      ],
+      [
+        {
+          "name": "address1",
+          "type": "input",
+          "id": "checkout-address1",
+          "inputType": "text",
+          "placeholder": "Address"
+        }
+      ],
+      [
+        {
+          "name": "city",
+          "type": "input",
+          "id": "checkout-district",
+          "placeholder": "District/City"
+        },
+        {
+          "name": "state",
+          "type": "input",
+          "id": "checkout-Region",
+          "inputType": "text",
+          "placeholder": "Region/State"
+        }
+      ],
+      [
+        {
+          "name": "zip",
+          "type": "input",
+          "id": "checkout-zip",
+          "inputType": "number",
+          "placeholder": "Zip code"
+        },
+        {
+          "name": "phone",
+          "type": "input",
+          "inputText": "number",
+          "id": "checkout-phone",
+          "placeholder": "Phone"
+        }
+      ]
+    ]
+  },
+  "bankTransfer": {
+    "content": [
+      {
+        "flag": "/flags/ukFlag.webp",
+        "currencyCode": "GBP",
+        "currency": "Great Britain Pound",
+        "vboutListCode": "55747",
+        "country": "United Kingdom"
+      },
+      {
+        "flag": "/flags/europeFlag.png",
+        "currencyCode": "EUR",
+        "currency": "Euro",
+        "vboutListCode": "55748",
+        "country": "Estonia (Europe)"
+      },
+      {
+        "flag": "/flags/australia.webp",
+        "currencyCode": "AUD",
+        "currency": "Australian Dollar",
+        "vboutListCode": "55746",
+        "country": "Australia"
+      },
+      {
+        "flag": "/flags/usaFlag.svg",
+        "currencyCode": "USD",
+        "currency": "United States Dollar",
+        "vboutListCode": "55580",
+        "country": "United States"
+      },
+      {
+        "flag": "/flags/hongkongFlag.png",
+        "currencyCode": "HKD",
+        "currency": "Hong Kong Dollar",
+        "vboutListCode": "55745",
+        "country": "Hong Kong (China)"
+      }
+    ]
+  },
+  "stripe": {
+    "content": [
+      {
+        "name": "creditCardNumber",
+        "type": "input",
+        "inputType": "text",
+        "placeholder": "Credit Card Number"
+      },
+      {
+        "name": "mm/yy",
+        "type": "input",
+        "inputType": "text",
+        "placeholder": "MM / YY"
+      },
+      {
+        "name": "cvc",
+        "type": "input",
+        "inputType": "text",
+        "placeholder": "CVC"
+      }
+    ]
+  }
+}
